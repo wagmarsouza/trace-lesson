@@ -1,0 +1,10 @@
+interface:
+  display_name: "TraceLesson"
+  short_description: "Evidence-first operational memory for agents"
+  icon_small: "../assets/trace-lesson-logo-v2.png"
+  icon_large: "../assets/trace-lesson-logo-v2.png"
+  brand_color: "#312E81"
+  default_prompt: "Use $self-improvement to retrieve relevant verified lessons before this task and record only material new learning afterward."
+policy:
+  allow_implicit_invocation: true
+

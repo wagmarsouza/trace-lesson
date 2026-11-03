@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+brand/trace-lesson-logo.png
+skills/self-improvement/assets/trace-lesson-logo.png
+
